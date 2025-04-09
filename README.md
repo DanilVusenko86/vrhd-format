@@ -16,7 +16,7 @@ Tool which can create this _Format_ is **VRHD Creator tool** <br>
 this tool wrote on Python. In tool script just follow steps 
 
 > [!WARNING]
-> If you set big size for virtual disk space file size of disk file equal you size which you set
+> If you set big size for virtual disk space <br> file size of disk file equal you size which you set
 
 
 ![desktop](tool.png)
